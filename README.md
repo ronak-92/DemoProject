@@ -1,2 +1,2 @@
 # DemoProject
- Description of my project update
+ Description of my project updates
